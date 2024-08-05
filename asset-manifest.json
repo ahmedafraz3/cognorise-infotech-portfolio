@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/cognorise-infotech-portfolio/static/css/main.8c6de528.css",
+    "main.css": "/cognorise-infotech-portfolio/static/css/main.8b3a9b6a.css",
     "main.js": "/cognorise-infotech-portfolio/static/js/main.6f85b50e.js",
     "static/js/453.bb257cf5.chunk.js": "/cognorise-infotech-portfolio/static/js/453.bb257cf5.chunk.js",
     "static/media/background.png": "/cognorise-infotech-portfolio/static/media/background.7e313575d40c37d05eb5.png",
     "index.html": "/cognorise-infotech-portfolio/index.html",
-    "main.8c6de528.css.map": "/cognorise-infotech-portfolio/static/css/main.8c6de528.css.map",
+    "main.8b3a9b6a.css.map": "/cognorise-infotech-portfolio/static/css/main.8b3a9b6a.css.map",
     "main.6f85b50e.js.map": "/cognorise-infotech-portfolio/static/js/main.6f85b50e.js.map",
     "453.bb257cf5.chunk.js.map": "/cognorise-infotech-portfolio/static/js/453.bb257cf5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8c6de528.css",
+    "static/css/main.8b3a9b6a.css",
     "static/js/main.6f85b50e.js"
   ]
 }
