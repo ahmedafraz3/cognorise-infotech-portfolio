@@ -1,0 +1,39 @@
+.navbar-custom {  
+  background-color: #242020; /* Background color of the navbar */  
+  height: 80px; /* Fixed height */  
+}  
+
+.navbar-custom .navbar-brand,  
+.navbar-custom .nav-link {  
+  color: aliceblue; /* Text color */  
+  font-size: 1.25rem; /* Increase font size */  
+  padding: 20px 15px; /* Padding for spacing */  
+}  
+
+.navbar-custom .nav-link:hover {  
+  color: #ddd; /* Text color on hover */  
+}  
+
+.navbar-custom .navbar-toggler {  
+  background-color: white; /* Set toggle button background color */  
+}  
+
+.navbar-custom .navbar-toggler:focus {  
+  box-shadow: none; /* Remove focus outline */  
+}  
+
+.navbar-custom .navbar-toggler .navbar-toggler-icon {  
+  background-image: none; /* Remove the default toggle icon */  
+}  
+
+.navbar-custom .navbar-toggler .navbar-toggler-icon:before {  
+  content: '☰'; /* Custom icon, you can change this */  
+  font-size: 24px; /* Adjust size if necessary */  
+  color: #242020; /* Icon color that contrasts with the background */  
+  display: block; /* Ensure it displays as a block */  
+  text-align: center; /* Center align the icon */  
+}  
+
+.navbar-custom .navbar-toggler:not(:disabled):hover {  
+  background-color: #f0f0f0; /* Optional: Hover effect for toggle button */  
+}

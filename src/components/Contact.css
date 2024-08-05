@@ -1,0 +1,27 @@
+
+
+   .container {
+    background-color: #242020;
+    color: aliceblue;
+    padding: 20px;
+  }
+  
+  .list-group {
+    border: none;
+  }
+  
+  .list-group-item {
+    background-color: #242020;
+    border-bottom: 1px solid aliceblue;
+    padding: 10px;
+    color: aliceblue; 
+  }
+  
+  .list-group-item a {
+    color: inherit; 
+  }
+  
+  .list-group-item svg {
+    margin-right: 10px;
+  } 
+  
